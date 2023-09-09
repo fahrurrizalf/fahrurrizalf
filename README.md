@@ -28,7 +28,7 @@ In addition to my technical expertise, I have a creative side with skills in web
 <li>Power BI, SQL, Python</li>
 <li>Sustainable Environment</li>
 <h3> ⚡ Interest:</h3>
-<p align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=000000&width=435&lines=%F0%9F%93%9A+Business;%F0%9F%8C%8A+Environmental;%F0%9F%8C%B1+Agriculture;%F0%9F%92%BB+Technology" alt="Typing SVG" /></a></p>
+<p align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=000000&width=435&lines=%F0%9F%93%9A+Business;%F0%9F%8C%B3+Environmental;%F0%9F%8C%B1+Agriculture;%F0%9F%92%BB+Technology" alt="Typing SVG" /></a></p>
 
 <details>
 <summary><h3 align="left"> 💼 Data Analytics Portfolio:</h3></summary>
