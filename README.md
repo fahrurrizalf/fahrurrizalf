@@ -26,9 +26,9 @@ In addition to my technical expertise, I have a creative side with skills in web
 <p align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=000000&width=435&lines=%F0%9F%93%9A+Business;%F0%9F%8C%B3+Environmental;%F0%9F%8C%B1+Agriculture;%F0%9F%92%BB+Technology" alt="Typing SVG" /></a></p>
 
 <details>
-<summary><h3 align="left"> 💼 Data Analytics Portfolio:</h3></summary>
-  <li><b><a href="">Power BI Portfolio</a></b></li>
-  <li><b><a href="">SQL Portfolio</a></b></li>
-  <li><b><a href="">Python Portfolio</a></b></li>
+<summary><h3 align="left"> 💼 Portfolio Project:</h3></summary>
+  <li><b><a href="https://github.com/fahrurrizalf/PowerBI_Portfolio">Power BI Portfolio</a></b></li>
+  <li><b><a href="https://github.com/fahrurrizalf/SQL_Portfolio">SQL Portfolio</a></b></li>
+  <li><b><a href="https://github.com/fahrurrizalf/Python_Portfolio">Python Portfolio</a></b></li>
 </details>
 
