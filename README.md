@@ -1,4 +1,6 @@
-![Data Analyst Banner](https://github.com/fahrurrizalf/fahrurrizalf/assets/109564854/fbbb9f67-6019-4830-8502-a76746e73b9a)
+
+![Data Analyst Banner (1)](https://github.com/fahrurrizalf/fahrurrizalf/assets/109564854/e45d2e04-7460-47e5-ba9e-e714a92971cf)
+
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Welcome+to+Fahrurrizal's+Github+Profile+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a></h3>
 
