@@ -15,7 +15,7 @@ In addition to my technical expertise, I have a creative side with skills in web
 </p>
 <h3> 🔭 I’m currently working on:</h3>
 <li>Big data for Agriculture Association in Indonesia</li>
-<li>Freelance Data Analytic Project</li>
+<li>Freelance Data Analytic - Data Science Project</li>
 <li>Freelance SEO Project</li>
 <h3> ✍🏻 I’m currently learning:</h3>
 <li>Cloud Computing</li>
