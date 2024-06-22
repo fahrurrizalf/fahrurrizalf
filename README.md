@@ -8,7 +8,7 @@
 <br/>
 
 <h3>🙋‍♂️ About me</h3>
-<p align="left"> Passionate environmentalist with a strong love for IT and data. Dedicated to using technology and data science to drive sustainable solutions and tackle environmental challenges. Committed to merging innovation with sustainability for a greener future.
+<p align="left"> "Passionate environmentalist with a strong love for IT and data. Holding a degree in Environmental Engineering, I am dedicated to using technology and data science to drive sustainable solutions and tackle environmental challenges. Committed to merging innovation with sustainability for a greener future."
 
 </p>
 <h3> 🔭 I’m currently working on:</h3>
